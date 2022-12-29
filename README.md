@@ -1,7 +1,7 @@
 
-# Project Title
+# Personal Portfolio
 
-A brief description of what this project does and who it's for
+This is a Minimalist Personal Portfolio Website, I made using React JS.
 
 
 ## It has following components-
