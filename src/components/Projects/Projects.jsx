@@ -117,7 +117,7 @@ const Projects = () => {
             <div className="projects__content">
                 <div>
                     <i className='uil uil-web-grid projects__icon'></i>
-                    <h3 className="servies__title">Others</h3>
+                    <h3 className="servies__title">Other<br></br> Projects</h3>
                 </div>
 
                 <span className="projects__button" onClick={() => toggleTab(3)}>View More <i className="uil uil-arrow-right projects__button-icon"></i></span>
